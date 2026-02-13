@@ -1,0 +1,4 @@
+﻿  lab2.cpp
+C:\Users\DELL\Desktop\CG\الدرس الاول\Project1\Project1\lab2.cpp(5,1): warning C4005: 'GLEW_STATIC': macro redefinition
+C:\Users\DELL\Desktop\CG\الدرس الاول\Project1\Project1\lab2.cpp(5,1): message : 'GLEW_STATIC' previously declared on the command line
+  Project1.vcxproj -> C:\Users\DELL\Desktop\CG\الدرس الاول\Project1\x64\Debug\Project1.exe
